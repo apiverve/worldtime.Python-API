@@ -77,17 +77,17 @@ print(result)
         "iso3": "ARG",
         "province": "Córdoba",
         "timezone": "America/Argentina/Cordoba",
-        "time": "00:09",
-        "time24": "00:09:25",
-        "time12": "12:09:25 AM",
-        "date": "2024-08-02",
-        "day": "Friday",
-        "month": "August",
-        "year": "2024",
-        "unix": "1722568165",
+        "time": "18:36",
+        "time24": "18:36:10",
+        "time12": "06:36:10 PM",
+        "date": "2025-02-20",
+        "day": "Thursday",
+        "month": "February",
+        "year": "2025",
+        "unix": "1740087370",
         "dst": false,
-        "dst_start": "2024-08-02 00:09:25",
-        "dst_end": "2024-08-02 00:09:25",
+        "dst_start": "2025-02-20 18:36:10",
+        "dst_end": "2025-02-20 18:36:10",
         "dst_name": "-03"
       },
       {
@@ -99,18 +99,18 @@ print(result)
         "province": "California",
         "state_ansi": "CA",
         "timezone": "America/Los_Angeles",
-        "time": "20:09",
-        "time24": "20:09:25",
-        "time12": "08:09:25 PM",
-        "date": "2024-08-01",
+        "time": "13:36",
+        "time24": "13:36:10",
+        "time12": "01:36:10 PM",
+        "date": "2025-02-20",
         "day": "Thursday",
-        "month": "August",
-        "year": "2024",
-        "unix": "1722568165",
-        "dst": true,
-        "dst_start": "2024-08-01 20:09:25",
-        "dst_end": "2024-08-01 20:09:25",
-        "dst_name": "PDT"
+        "month": "February",
+        "year": "2025",
+        "unix": "1740087370",
+        "dst": false,
+        "dst_start": "2025-02-20 13:36:10",
+        "dst_end": "2025-02-20 13:36:10",
+        "dst_name": "PST"
       }
     ]
   },
@@ -140,7 +140,7 @@ All usage of the APIVerve website, API, and services is subject to the [APIVerve
 ## License
 Licensed under the The MIT License (MIT)
 
-Copyright (&copy;) 2024 APIVerve, and Evlar LLC
+Copyright (&copy;) 2025 APIVerve, and EvlarSoft LLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
